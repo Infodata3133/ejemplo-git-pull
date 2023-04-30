@@ -1,2 +1,2 @@
-# ejemplo-git-pull
-Repositorio Genial  para practicar el comando git pull
+# ejemplo-git-pull (freeCodeCamp)
+Repositorio Genial  para practicar el comando git pull (FreeCodeCamp)
